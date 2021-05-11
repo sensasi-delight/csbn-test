@@ -1,0 +1,42 @@
+[
+  {
+    "id": "11111100000121010301",
+    "product": {
+      "id": "111111000001",
+      "name": "Carcass Chicken",
+      "ingredients": ["chicken"],
+      "HalalCertificateId": "00011111000001",
+      "Manufacturer Name": "Supp1"
+    },
+    "qty": 1000,
+    "ingredients": []
+  },
+  {
+    "id": "22222200000121010301",
+    "product": {
+      "id": "222222000001",
+      "name": "Carcass Chicken",
+      "ingredients": ["chicken"],
+      "HalalCertificateId": "00022222000001",
+      "Manufacturer Name": "Supp2"
+    },
+    "qty": 1500,
+    "ingredients": []
+  },
+  {
+    "id": "33333300000121010501",
+    "product": {
+      "id": "333333000001",
+      "name": "Chicken Sausage",
+      "ingredients": [
+        "Chicken",
+        "Salt",
+        "Garlic"
+      ],
+      "HalalCertificateId": "00033333000001",
+      "Manufacturer Name": "Supp3"
+    },
+    "qty": 2000,
+    "ingredients": ["22222200000121012000"]
+  }
+]

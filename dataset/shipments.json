@@ -1,0 +1,135 @@
+[
+  {
+    "id": "7777772101050001",
+    "invoices": [
+      {
+        "id": "111111210105001",
+        "items": [
+          {
+            "batchId": "11111100000121010301",
+            "qty": 100
+          }
+        ]
+      }
+    ],
+    "history": [
+      {
+        "date": "2021-05-01",
+        "time": "10:00",
+        "location": "Pick up at origin"
+      }, {
+        "date": "2021-05-01",
+        "time": "11:00",
+        "location": "Arrived at City A Facility"
+      }, {
+        "date": "2021-05-01",
+        "time": "12:00",
+        "location": "Departed from City A Facility"
+      },  {
+        "date": "2021-05-02",
+        "time": "03:00",
+        "location": "Arrived at City B Facility"
+      }, {
+        "date": "2021-05-02",
+        "time": "08:00",
+        "location": "Departed from City B Facility"
+      },{
+        "date": "2021-05-02",
+        "time": "10:00",
+        "location": "Arrived at destination"
+      }
+    ]
+  }, {
+    "id": "7777772101050002",
+    "invoices": [
+      {
+        "id": "222222210105001",
+        "items": [
+          {
+            "batchId": "22222200000121010301",
+            "qty": 1000
+          }
+        ]
+      }, {
+        "id": "222222210105002",
+        "items": [
+          {
+            "batchId": "22222200000121010301",
+            "qty": 500
+          }
+        ]
+      }
+    ],
+    "history": [
+      {
+        "date": "2021-05-01",
+        "time": "16:00",
+        "location": "Pick up at origin"
+      }, {
+        "date": "2021-05-01",
+        "time": "17:00",
+        "location": "Arrived at City A Facility"
+      }, {
+        "date": "2021-05-01",
+        "time": "18:00",
+        "location": "Departed from City A Facility"
+      }, {
+        "date": "2021-05-01",
+        "time": "19:00",
+        "location": "Arrived at destination (222222210105002)"
+      }, {
+        "date": "2021-05-01",
+        "time": "22:00",
+        "location": "Arrived at City C Facility"
+      }, {
+        "date": "2021-05-02",
+        "time": "03:00",
+        "location": "Departed from City C Facility"
+      }, {
+        "date": "2021-05-02",
+        "time": "03:00",
+        "location": "Arrived at destination (222222210105001)"
+      }
+    ]
+  }, {
+    "id": "7777772101070001",
+    "invoices": [
+      {
+        "id": "111111210107001",
+        "items": [
+          {
+            "batchId": "33333300000121010501",
+            "qty": 800
+          }
+        ]
+      }
+    ],
+    "history": [
+      {
+        "date": "2021-07-01",
+        "time": "10:00",
+        "location": "Pick up at origin"
+      }, {
+        "date": "2021-07-01",
+        "time": "11:00",
+        "location": "Arrived at City A Facility"
+      }, {
+        "date": "2021-07-01",
+        "time": "12:00",
+        "location": "Departed from City A Facility"
+      }, {
+        "date": "2021-07-01",
+        "time": "18:00",
+        "location": "Arrived at City C Facility"
+      }, {
+        "date": "2021-07-01",
+        "time": "19:00",
+        "location": "Departed from City C Facility"
+      }, {
+        "date": "2021-07-01",
+        "time": "20:00",
+        "location": "Arrived at destination"
+      }
+    ]
+  }
+]
