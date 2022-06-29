@@ -1,0 +1,11 @@
+# Chicken Slaughterhouse Blockchain Network - Research Test
+
+This repository is a supplement resource for a research article entitled ["Halal Blockchain Application for a Chicken Slaughtering Factory"](https://doi.org/10.18461/ijfsd.v13i3.C6). The research aims to build and test a blockchain network based on the proposed design by [Vanany et al. (2020) study](https://doi.org/10.1109/CENIM51130.2020.9297968). The test was conducted by simulating data transfer to the blockchain network through REST API. The test was performed on Google Colaboratory which can be accessed on [this link](https://colab.research.google.com/github/sensasi-delight/csbn-test/blob/main/CSBN_REST_API_TEST.ipynb). This repository also contains [dummy datasets](https://github.com/sensasi-delight/csbn-test/tree/main/dataset) for simulating data transfer by users for the test and the [appendix](https://github.com/sensasi-delight/csbn-test/blob/main/Appendix%20-%20Data%20Sample.pdf) for the paper.
+
+## Abstract
+
+The vast majority of traded products in Indonesia must be halal certified. This means that Indonesian consumers rely heavily on certificates issued by the Indonesian halal authority. Halal certification validates individual products and after four years, a certificate expires and must be renewed. One of the requirements in the certification process is that all the ingredients of the product must be halal. For this reason, we attempted to enhance the information on halal products, production, processes and delivery processes, using blockchain to address the validity issue. This paper proposes a blockchain-based system to support traceability in the chicken slaughterhouse industry. The design was tested using a black-box approach with 46 test cases that were based on a general scenario in a chicken slaughterhouse factory. The test result showed that all test cases produced the desired output. Hence, the proposed system fulfills the goal of enhancing the traceability of halal products. Ultimately, the buyers of halal chicken products will be assured that the chicken slaughterhouse followed the halal assurance system in its halal-critical processes.
+
+## Corresponding author
+
+adamakbar.id@gmail.com
